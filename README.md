@@ -17,10 +17,10 @@ Seaborn
 Jupyter Notebook
 
 # Key Insights
-India has the maximum number of listings on Zomato
-Ratings are mostly between 3.0 and 4.5
-Cuisine preferences vary drastically by country
-Minimal missing values, mostly in the Cuisines column
+>India has the maximum number of listings on Zomato
+>Ratings are mostly between 3.0 and 4.5
+>Cuisine preferences vary drastically by country
+>Minimal missing values, mostly in the Cuisines column
 
 # How to Run
 
@@ -31,5 +31,11 @@ Minimal missing values, mostly in the Cuisines column
 # Dataset Sources
 Zomato.csv
 Country-Code.xlsx
+# Screenshot
+![image](https://github.com/user-attachments/assets/15805317-e478-4328-8cd2-de9100a8e270)
+![image](https://github.com/user-attachments/assets/13320410-4583-4afe-9f83-c61026d6c34b)
+![image](https://github.com/user-attachments/assets/6b39bb94-758f-47c4-9cfe-002f00d5e4db)
+
+
 
 
